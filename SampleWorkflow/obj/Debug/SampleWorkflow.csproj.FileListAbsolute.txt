@@ -1,0 +1,5 @@
+C:\Users\bandar1\Documents\Visual Studio 2010\Projects\SiteTemplates\SampleWorkflow\SampleWorkflow\bin\Debug\SampleWorkflow.dll
+C:\Users\bandar1\Documents\Visual Studio 2010\Projects\SiteTemplates\SampleWorkflow\SampleWorkflow\bin\Debug\SampleWorkflow.pdb
+C:\Users\bandar1\Documents\Visual Studio 2010\Projects\SiteTemplates\SampleWorkflow\SampleWorkflow\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bandar1\Documents\Visual Studio 2010\Projects\SiteTemplates\SampleWorkflow\SampleWorkflow\obj\Debug\SampleWorkflow.dll
+C:\Users\bandar1\Documents\Visual Studio 2010\Projects\SiteTemplates\SampleWorkflow\SampleWorkflow\obj\Debug\SampleWorkflow.pdb
