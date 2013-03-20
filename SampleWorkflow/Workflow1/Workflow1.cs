@@ -28,7 +28,7 @@ namespace SampleWorkflow.Workflow1
         public SPWorkflowActivationProperties workflowProperties = new SPWorkflowActivationProperties();
         private void onWorkflowActivated1_Invoked(object sender, ExternalDataEventArgs e)
         {
-
+            //test
         }
         private void RequireApproval(object sender, ConditionalEventArgs e)
         {
